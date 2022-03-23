@@ -1,4 +1,4 @@
-https://kyletchiu.github.io/WeatherDashboard/
+https://github.com/KYLETCHIU/TeamProfileGenerator
 
 # Note-Taking-app
 ![GitHub license](http://img.shields.io/badge/license-MIT-green)
@@ -43,4 +43,4 @@ KYLETCHIU
  MIT 
 
 ## Repo
-https://github.com/KYLETCHIU/Note-Taking-app
+https://github.com/KYLETCHIU/TeamProfileGenerator
