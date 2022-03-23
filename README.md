@@ -1,5 +1,10 @@
 https://github.com/KYLETCHIU/TeamProfileGenerator
 
+<img width="730" alt="Screen Shot 2022-03-23 at 2 04 14 PM" src="https://user-images.githubusercontent.com/92279620/159766426-6c6db25c-de10-4fb3-9281-fe80a6295458.png">
+
+<img width="727" alt="Screen Shot 2022-03-23 at 2 04 41 PM" src="https://user-images.githubusercontent.com/92279620/159766433-8c569a3d-8666-4ce6-86a2-7d873638f7f9.png">
+
+
 # Note-Taking-app
 ![GitHub license](http://img.shields.io/badge/license-MIT-green)
 
